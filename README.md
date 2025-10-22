@@ -106,7 +106,7 @@ Sofia,21
 ## 📺 Inspiration
 
 Original logic reference video: [YouTube Video](https://www.youtube.com/watch?v=Y62MJny9LHg&t=1s)  
-Original project on GitHub: [Original Project GitHub](https://github.com/username/original-project)
+Original project on GitHub: [Original Project GitHub](https://github.com/ImKennyYip/snake-java)
 > *This project is not a copy — the original code was restructured, modernized, expanded, and documented.*
 
 ---
